@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:paddingBottom="@dimen/empty_screen_vertical_padding"
+    android:paddingEnd="@dimen/empty_screen_horizontal_padding"
+    android:paddingLeft="@dimen/empty_screen_horizontal_padding"
+    android:paddingRight="@dimen/empty_screen_horizontal_padding"
+    android:paddingStart="@dimen/empty_screen_horizontal_padding"
+    android:paddingTop="@dimen/empty_screen_vertical_padding">
+
+    <com.hap.androidtimes.ui.widget.TimesDraweeView
+        android:id="@+id/empty_icon"
+        android:layout_width="@dimen/empty_icon_size"
+        android:layout_height="@dimen/empty_icon_size"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/empty_icon_margin_bottom"
+        tools:background="@color/colorAccent" />
+
+    <android.support.v7.widget.AppCompatTextView
+        style="@style/emptyHeaderStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/empty_icon"
+        android:text="@string/empty_header_text" />
+
+</RelativeLayout>

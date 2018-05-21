@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="times_grid_margin_diff">28dp</dimen>
+    <dimen name="times_grid_padding">6dp</dimen>
+    <dimen name="times_grid_item_margin">4dp</dimen>
+    <dimen name="times_info_container_padding">8dp</dimen>
+    <dimen name="times_info_title_margin_bottom">4dp</dimen>
+    <dimen name="error_screen_horizontal_padding">72dp</dimen>
+    <dimen name="error_screen_vertical_padding">16dp</dimen>
+    <dimen name="error_icon_size">200dp</dimen>
+    <dimen name="error_icon_margin_bottom">16dp</dimen>
+    <dimen name="error_header_text_size">24sp</dimen>
+    <dimen name="error_header_margin_bottom">8dp</dimen>
+    <dimen name="error_sub_header_text_size">16sp</dimen>
+    <dimen name="empty_screen_horizontal_padding">72dp</dimen>
+    <dimen name="empty_screen_vertical_padding">16dp</dimen>
+    <dimen name="empty_icon_size">200dp</dimen>
+    <dimen name="empty_icon_margin_bottom">16dp</dimen>
+    <dimen name="empty_header_text_size">24sp</dimen>
+
+</resources>

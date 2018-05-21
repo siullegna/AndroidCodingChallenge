@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidTimes</string>
+    <string name="error_header_text">Content unavailable</string>
+    <string name="error_sub_header_text">Something happened while trying to load the times, try again later</string>
+    <string name="error_snack_bar">Something went wrong!</string>
+    <string name="empty_header_text">Oh, seems that there\'s no times for now!</string>
+    <string name="times_click_text">You clicked on %s, Yummy!</string>
+    <string name="times_transition_name">Photo Transition</string>
+    <string name="details_headline">Headline</string>
+    <string name="details_summary">Summary</string>
+    <string name="details_reviewer">Reviewer: %s</string>
+    <string name="details_rating">Rating: %s</string>
+    <string name="details_publication_date">Publication date: %s</string>
+</resources>

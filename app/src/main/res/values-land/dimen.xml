@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="times_grid_margin_diff">128dp</dimen>
+    <dimen name="times_grid_padding">60dp</dimen>
+    <dimen name="error_screen_vertical_padding">8dp</dimen>
+    <dimen name="error_icon_size">160dp</dimen>
+    <dimen name="empty_screen_vertical_padding">8dp</dimen>
+    <dimen name="empty_icon_size">160dp</dimen>
+
+</resources>
